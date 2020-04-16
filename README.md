@@ -28,6 +28,6 @@ At this point, in the directory in which there is the .yml file start docker-com
 
 ```docker-compose up```
 
-And the magic happaned !
+And the magic happens !
 
 PS. with ```docker-compose up -d``` the output goes in backgroud
