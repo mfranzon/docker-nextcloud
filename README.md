@@ -22,9 +22,9 @@ Make sure it starts at every server reboot:
 
 ```docker-compose --version```
 
-## Let's start with docker-compose.yml
+## Let's start with docker-compose.yaml
 
-At this point, in the directory in which there is the .yml file start docker-compose:
+At this point, in the directory in which there is the .yaml file start docker-compose:
 
 ```docker-compose up```
 
